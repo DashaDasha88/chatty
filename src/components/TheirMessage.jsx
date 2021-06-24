@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
 
 const TheirMessage = () => {
   return (
     <div>
-      
+      Their Message
     </div>
   )
 }
